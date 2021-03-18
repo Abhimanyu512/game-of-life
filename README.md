@@ -1,4 +1,4 @@
-#GAME OF LIFE
+# GAME OF LIFE
 The Game of Life is a zero-player game, meaning that its evolution is determined by its initial state<br>
 requiring no further input. A person interacts with the game of life by creating an initial<br> configuration and seeing how it evolves. The rules for the configuration are as follows:<br>
 1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.<br>
