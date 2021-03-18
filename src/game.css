@@ -1,7 +1,6 @@
 .gameboard{
     position: relative;
     margin: 0 auto;
-    margin-top: 10px;
     background-color: black;
     background-image: linear-gradient(yellow 1px, transparent 1px), linear-gradient(90deg, yellow 1px, transparent 1px);
 }
