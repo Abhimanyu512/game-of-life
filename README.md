@@ -6,4 +6,4 @@ requiring no further input. A person interacts with the game of life by creating
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.<br>
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.<br>
 
-To view, click [here](https://https://abhimanyu512.github.io/game-of-life).
+To view, click [here](https://abhimanyu512.github.io/game-of-life).
